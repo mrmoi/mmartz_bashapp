@@ -5,3 +5,4 @@ echo "Hi $NAME!!!!"
 # log
 
 
+Fri Sep 14 08:04:00 MST 2018
