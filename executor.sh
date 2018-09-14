@@ -1,4 +1,8 @@
 #!/bin/bash
-echo "Today" >> nametool.sh
 
+# Modify nametool.sh 
+echo " Thank you" >> nametool.sh
 
+git add .
+git commit -m "commit"
+git push origin master

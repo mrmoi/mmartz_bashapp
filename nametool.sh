@@ -1,5 +1,6 @@
 #!/bin/bash
-echo Welcome, please enter your name
+echo Please, enter your name
 read NAME
 echo "Hi $NAME!"
-Today
+echo  Thank you
+ Thank you
