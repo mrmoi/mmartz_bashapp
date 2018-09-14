@@ -5,4 +5,4 @@ echo $(date)  >> nametool.sh
 
 git add .
 git commit -m "commit"
-git push origin master
+/usr/bin/git push origin master
