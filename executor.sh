@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Modify nametool.sh 
-echo " Thank you" >> nametool.sh
+echo $(date)  >> nametool.sh
 
 git add .
 git commit -m "commit"
