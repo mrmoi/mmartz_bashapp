@@ -1,8 +1,4 @@
 #!/bin/bash
 echo Please, enter your name
-read NAME
+read -r NAME
 echo "Hi $NAME"
-
-
-
-
